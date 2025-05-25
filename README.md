@@ -6,3 +6,10 @@
 - Defense Information Systems Agency Security Technical Implementation Guide. 
 - A set of cybersecurity configuration standards to secure IT systems and software.
 
+---
+
+
+| **Tenable Plugin ID**  | **CVE**   |**Description** | **Link**
+|------------------------|-----------|----------------|----------|
+|**ID:**                 |**CVE:**          |**Information**    |**Reference**       |
+
