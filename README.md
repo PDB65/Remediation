@@ -9,7 +9,7 @@
 ---
 
 
-| **Tenable Plugin ID**  | **CVE**   |**Description** | **Link**
-|------------------------|-----------|----------------|----------|
-|**ID:**                 |**CVE:**          |**Information**    |**Reference**       |
+| **Tenable Plugin ID**  | **CVE ID**     |**Description**       | **Link**
+|------------------------|----------------|----------------------|------------------------|
+|**ID:**                 |**CVE:**        |**Information:**      |**Reference:**          |
 
