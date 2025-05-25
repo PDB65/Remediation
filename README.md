@@ -1,4 +1,4 @@
-## DISA STIG Remediations
+## DISA STIG Remediations - (Windows 10)
 
 ![image](https://github.com/user-attachments/assets/d4e86ff9-9b40-4362-8f23-8055f39edc7f)
 
