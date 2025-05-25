@@ -8,8 +8,6 @@
 
 ---
 
+- Click the link below to view PowerShell Scripts to remediate Windows 10 DISA STIG.
 
-| **Tenable Plugin ID**  | **CVE ID**     |**Description**       | **Link**
-|------------------------|----------------|----------------------|------------------------|
-|**ID:**                 |**CVE:**        |**Information:**      |**Reference:**          |
-
+[STIGS](https://github.com/PDB65/Burwell_P/tree/main/STIGS)
