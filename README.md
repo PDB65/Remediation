@@ -8,6 +8,4 @@
 
 ---
 
-- Click the link below to view PowerShell Scripts to remediate Windows 10 DISA STIG.
-
-[STIGS](https://github.com/PDB65/Burwell_P/tree/main/STIGS)
+- Click the link [STIGS](https://github.com/PDB65/Burwell_P/tree/main/STIGS) to view PowerShell Scripts to remediate Windows 10 DISA STIGs.
