@@ -8,14 +8,20 @@
 
 ---
 ## Attackers are constantly looking for vulnerabilities in systems and applications. 
-### Reduce Vulnerabilities.
+- Reduce Vulnerabilities:  Scan the system, locate the vulnerability, and remediate.
+  
+ ![image](https://github.com/user-attachments/assets/c6ec3501-0a11-45e1-87e6-e9605e826bc0)
+
 
 STIG ID: **WN10-CC-000145** - Users must be prompted for a password on resume from sleep (on battery).
+
 
 **Vulnerability:**
 Data Execution Prevention (DEP) prevents harmful code from running in protected memory locations reserved for Windows and other programs.
 
+![image](https://github.com/user-attachments/assets/22788419-18e3-436a-ade1-cded3f3f0be1)
 
+**Purpose:** Configure the policy value for Computer Configuration >> Administrative Templates >> System >> Power Management >> Sleep Settings >> 'Require a password when a computer wakes (on battery)' to 'Enabled'.
 
 
 
