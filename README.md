@@ -30,3 +30,12 @@ STIG ID: **WN10-CC-000145** - Users must be prompted for a password on resume fr
 - Scan the system again to confirm the STIG was remediated.
 
   ![image](https://github.com/user-attachments/assets/03975558-21d6-48ee-b794-6a000116167a)
+
+---
+
+  ## ✅ Best Practices Recommended
+**Automation:** Use tools to scan, deploy, and validate patches across the environment.
+**Prioritization:** Patch the most critical vulnerabilities first, based on real-world risk.
+**Integration:** Align patch management with broader IT and security frameworks (e.g., NIST CSF, RMF).
+**Communication:** Ensure coordination across IT, security, risk, and business teams.
+**Documentation:** Maintain records of patch status, exceptions, and decisions for compliance and audits.
