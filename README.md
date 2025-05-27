@@ -8,7 +8,7 @@
 
 ---
 ## Attackers are constantly looking for vulnerabilities in systems and applications. 
-- Reduce Vulnerabilities:  Scan the system, locate the vulnerability, and remediate.
+- **Reduce Vulnerabilities:**  Scan the system, locate the vulnerability, and remediate.
   
  ![image](https://github.com/user-attachments/assets/c6ec3501-0a11-45e1-87e6-e9605e826bc0)
 
